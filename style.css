@@ -12,7 +12,7 @@ html, body {
 }
 
 h2 {
-  margin: 0;
+  margin: 40px 0;
   padding: 0;
   font-size: 48px;
   font-weight: 300;
@@ -23,20 +23,15 @@ h2 {
   background-color: #4386FC;
   font-size: 16px;
   text-decoration: none;
-  display: block;
-  margin: 30px auto;
-  width: 200px;
-  height: 55px;
-  line-height: 53px;
+  padding: 16px 26px;
+  margin: 0;
 }
 
 .button:hover {
   color: black;
   background-color: white;
   font-weight: 700;
-  line-height: 48px;
   border: 2px solid;
-  height: 51px;
 }
 
 
@@ -49,17 +44,17 @@ h2 {
 /*SUPPORTING*/
 
 .supporting {
-  padding: 65px 0;
+  padding: 80px 0 125px;
 }
 
 .supporting img {
-  margin: 40px;
+  margin: 20px 0 0;
 }
 
 .supporting p {
   font-size: 21px;
   margin: 0;
-  padding: 40px 0;
+  padding: 0px 0;
 }
 
 
