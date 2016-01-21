@@ -31,8 +31,14 @@ h2 {
 }
 
 .button:hover {
-
+  color: black;
+  background-color: white;
+  font-weight: 700;
+  line-height: 48px;
+  border: 2px solid;
+  height: 51px;
 }
+
 
 /*MAIN*/
 
