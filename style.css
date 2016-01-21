@@ -33,3 +33,13 @@ html, body {
 /*FOOTER*/
 
 
+.footer {
+  height: 110px;
+  background-color: #EEEEEE;
+}
+
+.footer p {
+  font-size: 12px;
+  text-align: left;
+  line-height: 108px;
+}
