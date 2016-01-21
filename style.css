@@ -57,11 +57,17 @@ h2 {
 }
 
 
-
 /*BANNER*/
 
 
-
+.banner {
+  height: 500px;
+  background-image: url(https://s3.amazonaws.com/codecademy-content/projects/excursion/camp.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: scroll;
+  background-size: cover;
+}
 
 
 /*FOOTER*/
