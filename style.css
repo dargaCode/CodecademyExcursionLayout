@@ -11,6 +11,13 @@ html, body {
   padding: 0 20px;
 }
 
+h2 {
+  margin: 0;
+  padding: 0;
+  font-size: 48px;
+  font-weight: 300;
+}
+
 
 /*MAIN*/
 
@@ -20,7 +27,19 @@ html, body {
 
 /*SUPPORTING*/
 
+.supporting {
+  padding: 110px 0;
+}
 
+.supporting img {
+  margin: 40px;
+}
+
+.supporting p {
+  font-size: 22px;
+  margin: 0;
+  padding: 0;
+}
 
 
 
