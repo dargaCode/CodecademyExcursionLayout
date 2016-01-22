@@ -124,8 +124,26 @@ h2 {
     padding: 0 80px;
   }
 
+  h2 {
+    font-size: 44px;
+  }
+
   .main {
     padding-top: 50px;
+  }
+
+  .supporting {
+    padding: 60px 0 105px;
+  }
+
+  .supporting img {
+    margin-bottom: -10px;
+  }
+
+  .supporting p {
+    font-size: 20px;
+    padding: 0 80px;
+    margin-top: -12px;
   }
 
 }
@@ -137,8 +155,26 @@ h2 {
     padding: 0 40px;
   }
 
+  h2 {
+    font-size: 40px;
+  }
+
   .main {
     padding-top: 0;
+  }
+
+  .supporting {
+    padding: 40px 0 85px;
+  }
+
+  .supporting img {
+    margin-bottom: -20px;
+  }
+
+  .supporting p {
+    font-size: 19px;
+    padding: 0 20px;
+    margin-top: -18px;
   }
 
 }
@@ -153,11 +189,28 @@ h2 {
     margin-top: 0;
   }
 
+  h2{
+    font-size: 36px;
+  }
+
   .main {
     position: static;
     background-color: #EEEEEE;
     margin-top: -5px;
     padding: 80px 0 100px;
+  }
+
+  .supporting {
+    padding: 20px 0 65px;
+  }
+
+  .supporting img {
+    margin-bottom: -30px;
+  }
+
+  .supporting p {
+    font-size: 18px;
+    margin-top: -22px;
   }
 
 }
