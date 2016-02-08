@@ -1,7 +1,7 @@
 # Excursion Page Layout
 <strong>Language: HTML/CSS</strong>
 
-Another project working to match codecademy's example layout.
+Another project working to match <a href="https://s3.amazonaws.com/codecademy-content/projects/excursion/index.html">codecademy's example layout</a>.
 
 The site itself is pretty simple. The main challenges were getting the background video to work and general responsiveness.
 
